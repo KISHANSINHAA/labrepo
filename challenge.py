@@ -26,3 +26,4 @@ def reduce_dir(directions):
 directions = ["NORTH", "SOUTH", "SOUTH", "EAST", "WEST", "NORTH", "WEST"]
 res = reduce_dir(directions)
 print(res)
+print("change")
