@@ -5,5 +5,3 @@ for i in range(1,11):
     # this is made change is test4 by using b3c
     # test
 print("test")
-print("change")
-# change is  made
